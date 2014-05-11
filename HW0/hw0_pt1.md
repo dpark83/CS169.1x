@@ -18,3 +18,5 @@
       * If i and j are the same then use next
       * If input[i] + input[j] == n then return true
   * There is a return false as the last line in the method which acts like a catch all
+
+The code was written in less time than it would have taken to setup a paired programming session (not including writing the code), know this is not really the point but still the time required to setup something up should be weighted with the benefit - some comes down to  "Is the juice worth the squeeze?".
