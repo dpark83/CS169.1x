@@ -11,3 +11,5 @@
   * Convert string to a integer using to_i(2) so it uses base two
   * Check the modulo of the integer and 4, if it is 0 then return true
   * A return fasle is the last line, kind of a catch all
+
+The code was written in less time than it would have taken to setup a paired programming session (not including writing the code), know this is not really the point but still the time required to setup something up should be weighted with the benefit - some comes down to  "Is the juice worth the squeeze?".
